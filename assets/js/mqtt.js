@@ -1,5 +1,5 @@
-var hostname = "192.168.33.200";
-var port = 9001;
+var hostname = "eb1tr.com";
+var port = 9002;
 var d = new Date();
 var clientId = "V" + d.getTime();
 
